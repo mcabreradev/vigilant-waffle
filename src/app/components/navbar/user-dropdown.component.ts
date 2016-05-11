@@ -2,10 +2,10 @@ import {Component} from 'angular2/core';
 import {ROUTER_DIRECTIVES} from 'angular2/router';
 
 @Component({
-  selector: 'sd-navbar',
+  selector: 'sd-userDropdown',
   moduleId: module.id,
-  templateUrl: './navbar.component.html',
-  styleUrls: ['./navbar.component.css'],
+  templateUrl: './user-dropdown.component.html',
+  styleUrls: ['./user-dropdown.component.css'],
   directives: [ROUTER_DIRECTIVES]
 })
-export class NavbarComponent {}
+export class NavbarUserDropdownComponent {}
