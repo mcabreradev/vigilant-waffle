@@ -60,3 +60,13 @@ button {
 button:hover {
   background-color: md-color($app-blue, 400);
 }
+
+/*
+ * Navbar
+ */
+.navbar-inverse {
+  background-color: $app-gray;
+}
+.navbar-inverse a.dropdown-toggle {
+  color: $app-user-dropdown-color;
+}
