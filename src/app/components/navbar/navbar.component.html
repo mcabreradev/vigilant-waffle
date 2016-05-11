@@ -8,19 +8,20 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-     
-      <nv-newlead></nv-newlead>
-      
-      <nv-search></nv-search>
 
     </div>
 
     <div id="navbar" class="navbar-collapse collapse">
+
+      <!-- Componentes de la nv -->
+      <ul class="nav navbar-nav navbar-left">
+        <li><navbar-new-lead></navbar-new-lead></li>
+        <li><navbar-search></navbar-search></li>
+      </ul>
+
+      <!-- Dropdown del usuario -->
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Dashboard</a></li>
-        <li><a [routerLink]="['Home']">HOME</a></li>
-        <li><a [routerLink]="['About']">ABOUT</a></li>
-        <li><a href="#">Help</a></li>
+          <li class="dropdown"><navbar-dropdown></navbar-dropdown></li>
       </ul>
       
     </div>

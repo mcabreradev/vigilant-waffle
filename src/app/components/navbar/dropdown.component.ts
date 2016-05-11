@@ -2,10 +2,10 @@ import {Component} from 'angular2/core';
 import {ROUTER_DIRECTIVES} from 'angular2/router';
 
 @Component({
-  selector: 'navbar-new-lead',
+  selector: 'navbar-dropdown',
   moduleId: module.id,
-  templateUrl: './new-lead.component.html',
-  styleUrls: ['./new-lead.component.css'],
+  templateUrl: './dropdown.component.html',
+  styleUrls: ['./dropdown.component.css'],
   directives: [ROUTER_DIRECTIVES]
 })
-export class NavbarNewLeadComponent {}
+export class NavbarDropdownComponent {}
