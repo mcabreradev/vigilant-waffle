@@ -41,7 +41,7 @@ import { NameListService } from '../../shared/services/name-list.service';
   { path: '/search/never-contacted', name: 'NeverContacted', component: NeverContactedComponent },
   { path: '/search/opened-email', name: 'OpenedEmail', component: OpenedEmailComponent },
   { path: '/search/recently-created', name: 'RecentlyCreated', component: RecentlyCreatedComponent },
-  { path: '/search/status', name: 'Status', component: StatusComponent },
+  { path: '/search/status/:status', name: 'Status', component: StatusComponent },
   { path: '/reporting', name: 'Reporting', component: ReportingComponent },
 ])
 export class AppComponent {}
