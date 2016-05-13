@@ -8,7 +8,7 @@ import { SidebarComponent } from './sidebar/components/sidebar.component';
 // Isolated Components
 import { HomeComponent } from '../../home/components/home.component';
 import { AboutComponent } from '../../about/components/about.component';
-import { InboxComponent } from '../../inbox/components/inbox.component';
+import { TasksComponent } from '../../tasks/components/tasks.component';
 import { OportunitiesComponent } from '../../oportunities/components/oportunities.component';
 import { ReportingComponent } from '../../reporting/components/reporting.component';
 
@@ -33,9 +33,7 @@ import { NameListService } from '../../shared/services/name-list.service';
 @RouteConfig([
   { path: '/',      name: 'Home',  component: HomeComponent, useAsDefault: true },
   { path: '/about', name: 'About', component: AboutComponent },
-  { path: '/tasks/inbox', name: 'Inbox', component: InboxComponent },
-  { path: '/tasks/done', name: 'Done', component: InboxComponent },
-  { path: '/tasks/future', name: 'Future', component: InboxComponent },
+  { path: '/tasks/:param', name: 'Tasks', component: TasksComponent }, // inbox done future
   { path: '/oportunities', name: 'Oportunities', component: OportunitiesComponent },
   { path: '/search', name: 'Leads', component: SearchComponent },
   { path: '/search/never-contacted', name: 'NeverContacted', component: NeverContactedComponent },
