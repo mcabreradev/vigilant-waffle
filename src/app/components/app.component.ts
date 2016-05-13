@@ -10,7 +10,6 @@ import { HomeComponent } from '../../home/components/home.component';
 import { AboutComponent } from '../../about/components/about.component';
 import { InboxComponent } from '../../inbox/components/inbox.component';
 import { TasksComponent } from '../../tasks/components/tasks.component';
-import { OportunitiesComponent } from '../../oportunities/components/oportunities.component';
 import { ReportingComponent } from '../../reporting/components/reporting.component';
 import { ImportComponent } from '../../import/components/import.component';
 import { SettingsComponent } from '../../settings/components/settings.component';
@@ -38,7 +37,6 @@ import { NameListService } from '../../shared/services/name-list.service';
   { path: '/about', name: 'About', component: AboutComponent },
   { path: '/inbox', name: 'Inbox', component: InboxComponent },
   { path: '/tasks/:param', name: 'Tasks', component: TasksComponent }, // done future
-  { path: '/oportunities', name: 'Oportunities', component: OportunitiesComponent },
   { path: '/search', name: 'Leads', component: SearchComponent },
   { path: '/search/never-contacted', name: 'NeverContacted', component: NeverContactedComponent },
   { path: '/search/opened-email', name: 'OpenedEmail', component: OpenedEmailComponent },
