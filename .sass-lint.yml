@@ -1,6 +1,6 @@
 rules:
   indentation:
-    - 2
+    - 4
     -
       size: 2
   force-element-nesting: 0

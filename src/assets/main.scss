@@ -17,6 +17,7 @@ body {
   font-size: $md-body-font-size-base;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: $app-background-color;
 }
 
 p {

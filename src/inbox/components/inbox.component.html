@@ -1,11 +1,59 @@
-<h2>Inbox (3)</h2>
+<h1>Inbox <span class="count">3</span></h1>
 
-<ul>
-  <li>Ready to go, statically typed build system using Gulp for working with TypeScript.</li>
-  <li>Production and development builds.</li>
-  <li>Sample unit tests with Jasmine and Karma including code coverage via Istanbul.</li>
-  <li>End-to-end tests with Protractor.</li>
-  <li>Development server with live reload.</li>
-  <li>TypeScript definition management using Typings.</li>
-  <li>Basic Service Worker, which implements "Cache then network strategy".</li>
-</ul>
+<div class="inbox-actions clearfix">
+    <div class="row">
+        <div class="col-md-2 pull-left">
+        <input type="checkbox" class="check-all" tabindex="-1">
+        <button disabled="" class="btn btn-small action action-archive-selected" tabindex="-1">
+        <span class="glyphicons glyphicons-ok prepends-text" aria-hidden="true"></span>Done</button>
+        <span class="selected-count-str "><span class="selected-count">8</span> selected</span>
+        </div>
+
+        <div class="col-md-2 col-lg-push-8">
+        <div class="btn-group">
+            <button type="button" class="multiselect dropdown-toggle btn btn-small" data-toggle="dropdown" title="Oldest First">
+                <strong>Sort by:</strong> Oldest First <b class="caret"></b>
+            </button>
+            <ul class="multiselect-container dropdown-menu pull-right">
+                <li><a href="javascript:void(0);"><label class="radio"><input type="radio" value="date"> Oldest First</label></a></li>
+                <li><a href="javascript:void(0);"><label class="radio"><input type="radio" value="-date"> Newest First</label></a></li>
+            </ul>
+        </div>
+    </div>
+    </div>
+
+
+    <!-- List -->
+    <div class="inbox-list" style="padding-top:50px;">
+
+        <!-- row -->
+        <div class="row inbox-row">
+            <div class="col-md-2 inbox-col-1"><input type="checkbox" name="id" value=""></div>
+            <div class="col-md-2 inbox-col-2">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                </span>
+            </div>
+            <div class="col-md-2 inbox-col-3">
+                <a href="">Close.io (Sample&nbsp;Lead)</a>
+                <span class="contact_name"> Steli Efti</span>
+            </div>
+            <div class="col-md-2 inbox-col-4">
+                <button class="email btn btn-small" target="_blank" rel="tooltip" title="" data-original-title="Email Steli Efti">
+                    <i class="fa fa-envelope" aria-hidden="true"></i>
+                </button>
+            </div>
+            <div class="col-md-2 inbox-col-5">
+                <span>Welcome to Close.io!</span>
+                <span class="secondary">Hi! My name is Steli and I'm a co-founder of Close.io. I'm here to get your team set up and help with anything you may need as you evaluate our platform. Please don't hesitate to reach out with any qu</span>
+            </div>
+            <div class="col-md-2 inbox-col-6">
+                <time rel="tooltip" datetime="2016-05-09T19:28:38.168000+00:00" title="" data-original-title="Monday, May 9 2016 4:28 PM ART">May 9</time>
+            </div>
+        </div>
+        <!-- end row -->
+
+    </div>
+    <!-- End List -->
+</div>
