@@ -1,10 +1,9 @@
 import {Component} from 'angular2/core';
 import {ROUTER_DIRECTIVES} from 'angular2/router';
 
-// Components from Navbar
-import {NavbarNewLeadComponent} from './new-lead.component';
-import {NavbarSearchComponent} from './search.component';
-import {NavbarDropdownComponent} from './dropdown.component';
+import {NavbarNewLeadComponent} from './new-lead/new-lead.component';
+import {NavbarSearchComponent} from './search/search.component';
+import {NavbarDropdownComponent} from './dropdown/dropdown.component';
 
 @Component({
   selector: 'sd-navbar',
