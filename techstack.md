@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 mcabreradev/vigilant-waffle is built on the following main stack:
+
 - [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
@@ -23,11 +24,13 @@ mcabreradev/vigilant-waffle is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 mcabreradev/vigilant-waffle is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
@@ -49,14 +52,15 @@ mcabreradev/vigilant-waffle is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mcabreradev/vigilant-waffle](https://github.com/mcabreradev/vigilant-waffle)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|88<br/>Tools used|11/14/23 <br/>Report generated|
+|90<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -275,19 +279,21 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (64)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (66)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (64)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (66)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[angular2](https://www.npmjs.com/angular2)|v2.0.0|05/10/16|Miguelangel Cabrera |MIT|N/A|
 |[async](https://www.npmjs.com/async)|v1.4.2|05/10/16|Miguelangel Cabrera |MIT|N/A|
 |[browser-sync](https://www.npmjs.com/browser-sync)|v2.11.2|05/10/16|Miguelangel Cabrera |Apache-2.0|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v1.1.3|05/10/16|Miguelangel Cabrera |MIT|N/A|
 |[codelyzer](https://www.npmjs.com/codelyzer)|v0.0.12|05/10/16|Miguelangel Cabrera |MIT|N/A|
 |[connect](https://www.npmjs.com/connect)|v3.4.1|05/10/16|Miguelangel Cabrera |MIT|N/A|
 |[connect-history-api-fallback](https://www.npmjs.com/connect-history-api-fallback)|v1.1.0|05/10/16|Miguelangel Cabrera |MIT|N/A|
 |[connect-livereload](https://www.npmjs.com/connect-livereload)|v0.5.3|05/10/16|Miguelangel Cabrera |MIT|N/A|
+|[cssnano](https://www.npmjs.com/cssnano)|v3.5.2|05/10/16|Miguelangel Cabrera |MIT|N/A|
 |[es6-promise](https://www.npmjs.com/es6-promise)|v3.1.2|05/10/16|Miguelangel Cabrera |MIT|N/A|
 |[es6-shim](https://www.npmjs.com/es6-shim)|v0.35.0|05/10/16|Miguelangel Cabrera |MIT|N/A|
 |[event-stream](https://www.npmjs.com/event-stream)|v3.3.2|05/10/16|Miguelangel Cabrera |MIT|N/A|
@@ -349,4 +355,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
