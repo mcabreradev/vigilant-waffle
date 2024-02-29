@@ -3,25 +3,25 @@
 ## Tech Stack
 mcabreradev/vigilant-waffle is built on the following main stack:
 
-- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [jQuery](http://jquery.com/) – Javascript UI Libraries
+- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Karma](http://karma-runner.github.io/) – Browser Testing
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
-- [PhantomJS](https://phantomjs.org/) – Headless Browsers
-- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [jQuery](http://jquery.com/) – Javascript UI Libraries
+- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- [Karma](http://karma-runner.github.io/) – Browser Testing
 - [LiveReload](http://livereload.com) – Live Reloading
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [PhantomJS](https://phantomjs.org/) – Headless Browsers
+- [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
 - [TSLint](https://github.com/palantir/tslint) – Code Review
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -31,25 +31,25 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 mcabreradev/vigilant-waffle is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1754/protractor-logo1.png' alt='Protractor'/> [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1796/984368.png' alt='RxJS'/> [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/1832/phantomjs.png' alt='PhantomJS'/> [PhantomJS](https://phantomjs.org/) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
 - <img width='25' height='25' src='https://img.stackshare.io/service/2601/128.png' alt='LiveReload'/> [LiveReload](http://livereload.com) – Live Reloading
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1832/phantomjs.png' alt='PhantomJS'/> [PhantomJS](https://phantomjs.org/) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/1754/protractor-logo1.png' alt='Protractor'/> [Protractor](http://angular.github.io/protractor) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/5561/303157.png' alt='TSLint'/> [TSLint](https://github.com/palantir/tslint) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -60,7 +60,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mcabreradev/vigilant-waffle](https://github.com/mcabreradev/vigilant-waffle)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|90<br/>Tools used|01/05/24 <br/>Report generated|
+|90<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
